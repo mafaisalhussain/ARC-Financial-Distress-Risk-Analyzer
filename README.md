@@ -234,11 +234,11 @@ Open `http://localhost:8000` for the web dashboard, or `/docs` for Swagger UI.
 
 ## Demo
 
-**Apple Inc. (AAPL)** — Moderate Risk (32.6%): profitable and cash-generative, but high debt ratio from aggressive share buybacks triggers the Buyback Masquerade detector.
+**Apple Inc. (AAPL)** — Moderate Risk: profitable and cash-generative, but high debt ratio from aggressive share buybacks triggers the Buyback Masquerade detector.
 
 ![AAPL Analysis](assets/demo_aapl.png)
 
-**Hertz Global Holdings (HTZ)** — Critical Risk (93.1%): debt ratio over 100%, negative ROA, negative net margin. A real-world bankruptcy case the model correctly flags.
+**Hertz Global Holdings (HTZ)** — Critical Risk: debt ratio over 100%, negative ROA, negative net margin. A real-world bankruptcy case the model correctly flags.
 
 ![HTZ Analysis](assets/demo_htz.png)
 
